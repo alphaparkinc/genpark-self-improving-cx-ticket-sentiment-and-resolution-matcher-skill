@@ -1,0 +1,1 @@
+# genpark-self-improving-cx-ticket-sentiment-and-resolution-matcher-skill\n\nAnalyzes customer ticket emotional urgency, maps matching resolution playbooks, and templates responses.\n\n100% Python Standard Library implementation with zero external dependencies.

@@ -1,0 +1,1 @@
+[project]\nname = "genpark-self-improving-cx-ticket-sentiment-and-resolution-matcher-skill"\nversion = "1.0.0"\ndescription = "Analyzes customer ticket emotional urgency, maps matching resolution playbooks, and templates responses"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n

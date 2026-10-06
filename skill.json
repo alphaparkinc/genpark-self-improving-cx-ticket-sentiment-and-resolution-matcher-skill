@@ -1,0 +1,8 @@
+{
+  "name": "genpark-self-improving-cx-ticket-sentiment-and-resolution-matcher-skill",
+  "version": "1.0.0",
+  "description": "Analyzes customer ticket emotional urgency, maps matching resolution playbooks, and templates responses",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
